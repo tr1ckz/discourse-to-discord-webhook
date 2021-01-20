@@ -5,7 +5,7 @@
  */
 
 // Discord webhook URL.
-$discord_webhook_url = '';
+$discord_webhook_url = 'https://discord.com/api/webhooks/801546599515029606/t2aYwbRkXAyvhMcFFKnLzEXus5Qt047YVwWoTEHaoljGme8niTaM3r_yQ4CY40XIp-cI';
 
 // Customize the color of the left side of the embed with a hexidecimal color code.
 $discord_embed_color = '#ee3940';
